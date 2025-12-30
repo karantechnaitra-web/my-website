@@ -378,4 +378,8 @@ ease;
 .caption{
     padding: 2rem;
 }
+.contact-row {
+  grid-template-columns: repeat(1, 1fr);
 }
+}
+
