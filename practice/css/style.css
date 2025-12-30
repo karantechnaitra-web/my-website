@@ -254,7 +254,6 @@ bottom: 0;
 .contact-form form input{
     width:100%;
     padding:1rem;
-    margin-bottom:1rem;
     border:1px solid #d1d1d1;
     border-radius:.5rem;
     resize: none;
@@ -274,10 +273,9 @@ bottom: 0;
 }
 .contact-form form div{
   width: 100%;
+   margin-bottom:1rem;
 }
-.contact-form form div{
-  gap: 0 1rem;
-}
+
 .contact-form form textarea{
     width:100%;
     padding:1rem;
@@ -382,4 +380,5 @@ ease;
   grid-template-columns: repeat(1, 1fr);
 }
 }
+
 
